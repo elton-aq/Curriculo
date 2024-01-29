@@ -1,0 +1,35 @@
+body {
+    background-color: #31233e;
+}
+
+.topic {
+    font-weight: 600;
+}
+
+#title, .subtitle, .topic, .text {
+    color: #d1dab9;
+}
+
+.topic {
+    font-style: italic;
+}
+
+.subtitle {
+    padding: 10px;
+    border: 3px solid#671045;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#formacao, #habilidades, #projetos, #contatos {
+    padding: 5px;
+    margin: 10px;
+}
+
+.img_post{
+    border-radius: 50px;
+}
+
+#ctt_dados {
+    text-align: center;
+}
